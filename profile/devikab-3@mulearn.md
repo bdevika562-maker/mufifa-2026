@@ -1,5 +1,5 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Full Name Devika B
+### Squad Domain: Creative | FIFA Nation: Argentina
 
 ### About Me
 
