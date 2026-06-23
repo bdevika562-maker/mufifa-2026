@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I am a fourth-year B.Tech Computer Science and cyber security Engineering student at APJ Abdul Kalam Technological University. I am highly passionate   about computer science and cyber security, core computer systems, and exploring intelligent solutions to real-world problems. . I enjoy exploring threat detection and building smart applications.
+> I am a fourth-year B.Tech Computer Science and cyber security Engineering student at APJ Abdul Kalam Technological University. I am highly passionate   about computer science and cyber security, core computer systems, and exploring intelligent solutions to real-world problems. I enjoy exploring threat detection and building smart applications.
 ---
 
 ## ⚽ FIFA World Cup Corner
